@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540509191824",
+    "project_id": "ahmed-76bbc",
+    "storage_bucket": "ahmed-76bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540509191824:android:ba2b6e93c66aea8d606215",
+        "android_client_info": {
+          "package_name": "com.example.vegetables"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540509191824-0qlmtjesset7tjf6oj20u68gbapee047.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vegetables",
+            "certificate_hash": "57613e58b1e3f461a19f23d9747f74c1928d28ff"
+          }
+        },
+        {
+          "client_id": "540509191824-euiri8ae65t2gpfau0ckhr1adbjruuib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ZZG9C0uOKpPiyJL5nejPUU2ubici70o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540509191824-euiri8ae65t2gpfau0ckhr1adbjruuib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
